@@ -1,4 +1,10 @@
+<<<<<<< .mine
 # InputTest
-测试新建分支使用
-
+=======
+# InputTest
+>>>>>>> .theirs
+<<<<<<< .mine
 123
+=======
+
+>>>>>>> .theirs
